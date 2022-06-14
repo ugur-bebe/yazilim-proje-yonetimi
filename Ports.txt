@@ -1,0 +1,5 @@
+#UI	-> 5000
+#Services
+	-> Catalog - 5011
+	-> Basket  - 5013
+	-> Account - 5015
